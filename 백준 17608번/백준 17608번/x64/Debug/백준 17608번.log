@@ -1,0 +1,3 @@
+﻿  백준 17608번.c
+C:\Users\신승우\Desktop\백준\백준 17608번\백준 17608번\백준 17608번.c(63,9): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  백준 17608번.vcxproj -> C:\Users\신승우\Desktop\백준\백준 17608번\x64\Debug\백준 17608번.exe
