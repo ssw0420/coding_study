@@ -8,6 +8,6 @@ for _ in range (int(input())):
             white[X + i][Y + j] = 1
 
 for black in white:
-    result += sum(black)
-    
+    result += sum(black) # for black in white를 써서 list형으로 접근하였으므로 하나의 행의 숫자들을 모두 더하기 위해 sum 사용
+
 print(result)
