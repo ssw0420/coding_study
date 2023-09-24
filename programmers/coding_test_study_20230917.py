@@ -1,3 +1,52 @@
+def up_one_alp(alp, answer):
+    alp += 1
+    answer += 1
+    print("알고력에 1시간 사용 // 총 사용 시간 : ", answer, "현재 알고력 : ", alp)
+
+    return alp, answer
+
+def up_one_cop(cop, answer):
+    cop += 1
+    answer += 1
+    print("코딩력에 1시간 사용 // 총 사용 시간 : ", answer, "현재 코딩력 : ", cop)
+
+    return cop, answer
+
+def up_alp_cop(alp, cop, answer, problems, i):
+    print("알고력, 코딩력 모두 증가하는 함수 호출")
+    alp += problems[i][2]
+    cop += problems[i][3]
+    answer += problems[i][4]
+
+    print("변화 후 알고력 : ", alp)
+    print("변화 후 코딩력 : ", cop)
+    print("소모된 시간 : ", problems[i][4])
+    return alp, cop, answer
+
+def scan_problems(alp, cop, problems, alp_max, cop_max, answer):
+    # 문제 스캔 후 저장해야 하는 값은?
+    # 다음으로 풀 수 있는 최소한의 단계
+    for i in range(len(problems)):
+        if(alp > problems[i][2] and cop > problems[i][3]):
+            possible_alp = problems[i][2]
+            possible_cop = problems[i][3]
+    
+    for i in range(len(problems)):
+        if(possible_alp < problems[i][2] or possible_cop < problems[i][3]):
+            if(possible_alp < problems[i][2] and possible_cop < problems[i][3]):
+                next_problem_num = i
+            elif(possible_alp < problems[i][2]):
+                next_alp = problems[i][2]
+            elif(possible_cop < problems[i][2]):
+                next_cop = problems[i][3]
+        
+        if(alp >= alp_max and cop >= cop_max):
+            return answer
+
+    next_alp
+    next_cop
+
+# 하나의 행동을 하면 모든 문제를 확인해야 할 것 같음
 def solution(alp, cop, problems):
 
     answer = 0
@@ -22,7 +71,7 @@ def solution(alp, cop, problems):
     while(1):
         if alp_temp <= alp:
             break
-        alp = up_one_alp(alp, answer)
+        alp, answer = up_one_alp(alp, answer)
 
 
     for i in range(len(problems)):
@@ -37,54 +86,20 @@ def solution(alp, cop, problems):
     while(1):
         if cop_temp <= cop:
             break
-        cop = up_one_cop(cop, answer)
+        cop, answer = up_one_cop(cop, answer)
 
-    # 코딩력과 알고력으로 문제 푸는 과정
-    time = problems[0][4]
-
-    if (alp < alp_max):
-        for i in range(len(problems)):
-            if(problems[i][2] != 0):
-                if(time < problems[i][4]):
-                    time = problems[i][4]
-
-    if (cop < cop_max):
-
-        
-
-    alp_req = problems[0][2]
+    ###############################################
     for i in range(len(problems)):
-        if (alp_req < problems[i][2]):
+        if(problems[i][2] + problems[i][3] < problems[i][4]):
+            continue
 
-
-    if (problems[i][2] != 0):
-        up_alp_cop(alp, cop, problems[i][2], problems[i][4], answer)
-
-
-
+        if(problems[i])
+        alp, cop, answer = up_alp_cop(alp, cop, answer, problems, i)
+        alp, answer = up_only_alp(alp, answer)
+        cop, answer = up_only_cop(cop, answer)
+        
     return answer
 
-
-def up_one_alp(alp, answer):
-    alp += 1
-    answer += 1
-    print("알고력에 1시간 사용 // 총 사용 시간 : ", answer, "현재 알고력 : ", alp)
-
-    return alp
-
-def up_one_cop(cop, answer):
-    cop += 1
-    answer += 1
-    print("코딩력에 1시간 사용 // 총 사용 시간 : ", answer, "현재 코딩력 : ", cop)
-
-    return cop
-
-def up_alp_cop(alp, alp_rwd, cost, time):
-    print("함수 호출")
-    alp += alp_rwd
-    time += cost
-    print("변화한 alp : ", alp)
-    print("소모된 시간 : ", time)
     
 
 print(solution(10, 10, [[10, 15, 2, 1, 2], [20, 20, 3, 3, 4]]))
@@ -152,23 +167,3 @@ print(solution(10, 10, [[10, 15, 2, 1, 2], [20, 20, 3, 3, 4]]))
 ### 결론 ###
 # 주어진 모든 문제를 풀 수 있는 >>>'알고력과 코딩력을 얻는'<<< 최단시간을 구하기
 # 절대 모든 문제를 1번 이상 풀 필요가 없음
-# 
-# 
-# 
-# 
-# 
-#    # for i in range(len(problems)):
-    #     if (alp < problems[i][0]):
-    #         count += 1
-    #     elif (alp > problems[i][0]):
-    #         count = 0
-    # if(count != 0):
-    #     up_one_alp(alp, answer)
-
-    
-
-    # for i in range(len(problems)):
-    #     if (cop < problems[i][0]):
-    #         count += 1
-    #     elif (cop > problems[i][0]):
-    #         count = 0
