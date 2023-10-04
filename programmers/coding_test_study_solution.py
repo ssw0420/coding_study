@@ -1,7 +1,11 @@
 import heapq
 
 def solution(alp, cop, problems):
+    # 최대 알고력
+    # 최대 코딩력
     max_alp, max_cop = max(x[0] for x in problems), max(x[1] for x in problems)
+
+    
     table = [[int(1e9) for _ in range(151)] for _ in range(151)]
     problems += [[0, 0, 1, 0, 1], [0, 0, 0, 1, 1]]
 
