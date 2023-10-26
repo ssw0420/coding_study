@@ -1,0 +1,5 @@
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\Sticker_Collect\obj\Debug\net6.0\Sticker_Collect.csproj.AssemblyReference.cache
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\Sticker_Collect\obj\Debug\net6.0\Sticker_Collect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\Sticker_Collect\obj\Debug\net6.0\Sticker_Collect.AssemblyInfoInputs.cache
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\Sticker_Collect\obj\Debug\net6.0\Sticker_Collect.AssemblyInfo.cs
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\Sticker_Collect\obj\Debug\net6.0\Sticker_Collect.csproj.CoreCompileInputs.cache

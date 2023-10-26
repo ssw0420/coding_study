@@ -1,0 +1,15 @@
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\bin\Debug\net6.0\MainTest.exe
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\bin\Debug\net6.0\MainTest.deps.json
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\bin\Debug\net6.0\MainTest.runtimeconfig.json
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\bin\Debug\net6.0\MainTest.dll
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\bin\Debug\net6.0\MainTest.pdb
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\obj\Debug\net6.0\MainTest.csproj.AssemblyReference.cache
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\obj\Debug\net6.0\MainTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\obj\Debug\net6.0\MainTest.AssemblyInfoInputs.cache
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\obj\Debug\net6.0\MainTest.AssemblyInfo.cs
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\obj\Debug\net6.0\MainTest.csproj.CoreCompileInputs.cache
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\obj\Debug\net6.0\MainTest.dll
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\obj\Debug\net6.0\refint\MainTest.dll
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\obj\Debug\net6.0\MainTest.pdb
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\obj\Debug\net6.0\MainTest.genruntimeconfig.cache
+C:\Users\신승우\Desktop\coding_study\coding_study\programmers\Sticker_Collect\MainTest\obj\Debug\net6.0\ref\MainTest.dll
