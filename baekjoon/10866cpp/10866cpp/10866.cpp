@@ -19,10 +19,79 @@
 //출력해야하는 명령이 주어질 때마다, 한 줄에 하나씩 출력한다.
 
 #include <iostream>
+#include <string>
 
 using namespace std;
 
+
+const int MAX_SIZE = 20000;
+int deque[MAX_SIZE];
+
 int main() {
-	// TODO: 덱 구현
-	return 0;
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+
+    int count;
+    cin >> count;
+
+
+    // 배열의 중간을 시작점으로 설정
+    int front = MAX_SIZE / 2;
+    int back = MAX_SIZE / 2;
+
+    while (count--) {
+        string command;
+        cin >> command;
+
+        if (command == "push_front") {
+            int X;
+            cin >> X;
+            deque[--front] = X;
+        }
+        else if (command == "push_back") {
+            int X;
+            cin >> X;
+            deque[back++] = X;
+        }
+        else if (command == "pop_front") {
+            if (front == back) {
+                cout << "-1\n";
+            }
+            else {
+                cout << deque[front++] << "\n";
+            }
+        }
+        else if (command == "pop_back") {
+            if (front == back) {
+                cout << "-1\n";
+            }
+            else {
+                cout << deque[--back] << "\n";
+            }
+        }
+        else if (command == "size") {
+            cout << (back - front) << "\n";
+        }
+        else if (command == "empty") {
+            cout << ((front == back) ? "1" : "0") << "\n";
+        }
+        else if (command == "front") {
+            if (front == back) {
+                cout << "-1\n";
+            }
+            else {
+                cout << deque[front] << "\n";
+            }
+        }
+        else if (command == "back") {
+            if (front == back) {
+                cout << "-1\n";
+            }
+            else {
+                cout << deque[back - 1] << "\n";
+            }
+        }
+    }
+    return 0;
 }
