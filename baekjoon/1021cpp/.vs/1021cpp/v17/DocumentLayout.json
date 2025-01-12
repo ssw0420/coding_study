@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\1021cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92DB9040-D282-487F-A368-86E44539A18D}|1021cpp\\1021cpp.vcxproj|C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\1021cpp\\1021cpp\\1021.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92DB9040-D282-487F-A368-86E44539A18D}|1021cpp\\1021cpp.vcxproj|solutionrelative:1021cpp\\1021.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1021.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\1021cpp\\1021cpp\\1021.cpp",
+              "RelativeDocumentMoniker": "1021cpp\\1021.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\1021cpp\\1021cpp\\1021.cpp",
+              "RelativeToolTip": "1021cpp\\1021.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T09:23:05.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
