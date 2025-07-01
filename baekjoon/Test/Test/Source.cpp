@@ -45,11 +45,19 @@ int func3(int N)
 	
 }
 
-void InputArray()
+// N이하의 수 중에서 가장 큰 2의 거듭제곱 수를 반환
+// ex) N = 5일때, 2^0, 2^1, 2^2가 있는데 2^2인 4가 젤 크니까 4를 반환
+int func4(int N)
 {
-
+	int value = 1;
+	while (2 * value <= N)
+	{
+		value *= 2;
+	}
+	return value;
 }
 
+// 512MB = 1.2억개의 int
 int main()
 {
 	ios::sync_with_stdio(false);
@@ -58,6 +66,7 @@ int main()
 
 	int N;
 	cin >> N;
+	cout << func4(N);
 
 	// func2
 	//int* arr = new int[N];
