@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\GitHub\\coding_study\\baekjoon\\10808cpp\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\10808cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{883D7914-B07C-4D41-B97E-99D81B2D1F53}|10808cpp\\10808cpp.vcxproj|C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\GitHub\\coding_study\\baekjoon\\10808cpp\\10808cpp\\10808.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{883D7914-B07C-4D41-B97E-99D81B2D1F53}|10808cpp\\10808cpp.vcxproj|C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\10808cpp\\10808cpp\\10808.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{883D7914-B07C-4D41-B97E-99D81B2D1F53}|10808cpp\\10808cpp.vcxproj|solutionrelative:10808cpp\\10808.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "10808.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\GitHub\\coding_study\\baekjoon\\10808cpp\\10808cpp\\10808.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\10808cpp\\10808cpp\\10808.cpp",
               "RelativeDocumentMoniker": "10808cpp\\10808.cpp",
-              "ToolTip": "C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\GitHub\\coding_study\\baekjoon\\10808cpp\\10808cpp\\10808.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\10808cpp\\10808cpp\\10808.cpp",
               "RelativeToolTip": "10808cpp\\10808.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-25T15:45:12.865Z",
               "EditorCaption": ""
