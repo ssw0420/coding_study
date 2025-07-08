@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\0x04_linkedlist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3CD7007-D84C-4C5A-A4EF-2313375DF7BA}|0x04_linkedlist\\0x04_linkedlist.vcxproj|C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\0x04_linkedlist\\0x04_linkedlist\\linked_list_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3CD7007-D84C-4C5A-A4EF-2313375DF7BA}|0x04_linkedlist\\0x04_linkedlist.vcxproj|solutionrelative:0x04_linkedlist\\linked_list_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "linked_list_test.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\0x04_linkedlist\\0x04_linkedlist\\linked_list_test.cpp",
+              "RelativeDocumentMoniker": "0x04_linkedlist\\linked_list_test.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\0x04_linkedlist\\0x04_linkedlist\\linked_list_test.cpp",
+              "RelativeToolTip": "0x04_linkedlist\\linked_list_test.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-08T09:39:16.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
