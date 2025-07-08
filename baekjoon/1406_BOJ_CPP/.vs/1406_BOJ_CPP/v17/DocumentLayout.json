@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\1406_BOJ_CPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2866115F-3D2C-41B5-ACC9-40F3B0EB1204}|1406_BOJ_CPP\\1406_BOJ_CPP.vcxproj|C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\1406_BOJ_CPP\\1406_BOJ_CPP\\1406_0x04_linkedlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2866115F-3D2C-41B5-ACC9-40F3B0EB1204}|1406_BOJ_CPP\\1406_BOJ_CPP.vcxproj|solutionrelative:1406_BOJ_CPP\\1406_0x04_linkedlist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1406_0x04_linkedlist.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\1406_BOJ_CPP\\1406_BOJ_CPP\\1406_0x04_linkedlist.cpp",
+              "RelativeDocumentMoniker": "1406_BOJ_CPP\\1406_0x04_linkedlist.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\1406_BOJ_CPP\\1406_BOJ_CPP\\1406_0x04_linkedlist.cpp",
+              "RelativeToolTip": "1406_BOJ_CPP\\1406_0x04_linkedlist.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-08T09:59:20.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
