@@ -1,0 +1,5 @@
+﻿  BOJ1926.cpp
+C:\Users\user\Documents\GitHub\coding_study\baekjoon\0x09_BFS_BOJ1926\0x09_BFS_BOJ1926\BOJ1926.cpp(61,23): warning C4804: '<': unsafe use of type 'bool' in operation
+  0x09_BFS_BOJ1926.vcxproj -> C:\Users\user\Documents\GitHub\coding_study\baekjoon\0x09_BFS_BOJ1926\x64\Debug\0x09_BFS_BOJ1926.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
