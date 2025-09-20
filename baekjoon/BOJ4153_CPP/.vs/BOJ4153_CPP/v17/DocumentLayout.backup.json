@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ4153_CPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE4893F-E4A5-48F2-B195-A7CF07AF839B}|BOJ4153_CPP\\BOJ4153_CPP.vcxproj|C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ4153_CPP\\BOJ4153_CPP\\BOJ4153.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE4893F-E4A5-48F2-B195-A7CF07AF839B}|BOJ4153_CPP\\BOJ4153_CPP.vcxproj|solutionrelative:BOJ4153_CPP\\BOJ4153.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BOJ4153.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ4153_CPP\\BOJ4153_CPP\\BOJ4153.cpp",
+              "RelativeDocumentMoniker": "BOJ4153_CPP\\BOJ4153.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ4153_CPP\\BOJ4153_CPP\\BOJ4153.cpp",
+              "RelativeToolTip": "BOJ4153_CPP\\BOJ4153.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBMAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-20T11:57:20.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
