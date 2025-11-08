@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_2579_CPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82E3BCFF-2475-4193-A2D7-B40F972EE846}|BOJ_2579_CPP\\BOJ_2579_CPP.vcxproj|C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_2579_CPP\\BOJ_2579_CPP\\BOJ_2579.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82E3BCFF-2475-4193-A2D7-B40F972EE846}|BOJ_2579_CPP\\BOJ_2579_CPP.vcxproj|solutionrelative:BOJ_2579_CPP\\BOJ_2579.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BOJ_2579.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_2579_CPP\\BOJ_2579_CPP\\BOJ_2579.cpp",
+              "RelativeDocumentMoniker": "BOJ_2579_CPP\\BOJ_2579.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_2579_CPP\\BOJ_2579_CPP\\BOJ_2579.cpp",
+              "RelativeToolTip": "BOJ_2579_CPP\\BOJ_2579.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-08T03:36:44.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
