@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_11660_CPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC0412C-3537-4AB8-B7FB-E14804943E83}|BOJ_11660_CPP\\BOJ_11660_CPP.vcxproj|C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_11660_CPP\\BOJ_11660_CPP\\BOJ_11660.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5AC0412C-3537-4AB8-B7FB-E14804943E83}|BOJ_11660_CPP\\BOJ_11660_CPP.vcxproj|solutionrelative:BOJ_11660_CPP\\BOJ_11660.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BOJ_11660.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_11660_CPP\\BOJ_11660_CPP\\BOJ_11660.cpp",
+              "RelativeDocumentMoniker": "BOJ_11660_CPP\\BOJ_11660.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_11660_CPP\\BOJ_11660_CPP\\BOJ_11660.cpp",
+              "RelativeToolTip": "BOJ_11660_CPP\\BOJ_11660.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T12:35:49.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
