@@ -1,0 +1,5 @@
+﻿  BOJ_12865.cpp
+C:\Users\user\Documents\GitHub\coding_study\baekjoon\BOJ_12865_CPP\BOJ_12865_CPP\BOJ_12865.cpp(15,6): warning C4101: 'W': unreferenced local variable
+  BOJ_12865_CPP.vcxproj -> C:\Users\user\Documents\GitHub\coding_study\baekjoon\BOJ_12865_CPP\x64\Debug\BOJ_12865_CPP.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
