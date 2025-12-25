@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_10815_CPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8948275-ABE0-4E1D-92AB-6F9FDB917845}|BOJ_10815_CPP_2\\BOJ_10815_CPP_2.vcxproj|C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_10815_CPP\\BOJ_10815_CPP_2\\BOJ_10815_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8948275-ABE0-4E1D-92AB-6F9FDB917845}|BOJ_10815_CPP_2\\BOJ_10815_CPP_2.vcxproj|solutionrelative:BOJ_10815_CPP_2\\BOJ_10815_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB8A6A58-9D19-460F-B30B-332FB2C09BA0}|BOJ_10815_CPP\\BOJ_10815_CPP.vcxproj|C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_10815_CPP\\BOJ_10815_CPP\\BOJ_10815.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB8A6A58-9D19-460F-B30B-332FB2C09BA0}|BOJ_10815_CPP\\BOJ_10815_CPP.vcxproj|solutionrelative:BOJ_10815_CPP\\BOJ_10815.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BOJ_10815_2.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_10815_CPP\\BOJ_10815_CPP_2\\BOJ_10815_2.cpp",
+              "RelativeDocumentMoniker": "BOJ_10815_CPP_2\\BOJ_10815_2.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_10815_CPP\\BOJ_10815_CPP_2\\BOJ_10815_2.cpp",
+              "RelativeToolTip": "BOJ_10815_CPP_2\\BOJ_10815_2.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-25T15:03:38.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BOJ_10815.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_10815_CPP\\BOJ_10815_CPP\\BOJ_10815.cpp",
+              "RelativeDocumentMoniker": "BOJ_10815_CPP\\BOJ_10815.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\coding_study\\baekjoon\\BOJ_10815_CPP\\BOJ_10815_CPP\\BOJ_10815.cpp",
+              "RelativeToolTip": "BOJ_10815_CPP\\BOJ_10815.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-25T13:21:27.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
